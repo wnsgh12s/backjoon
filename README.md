@@ -9,9 +9,9 @@
 - [x] https://www.acmicpc.net/problem/2558
 - [x] https://www.acmicpc.net/problem/10950
 - [x] https://www.acmicpc.net/problem/10951
-- [ ] https://www.acmicpc.net/problem/10952
-- [ ] https://www.acmicpc.net/problem/10953
-- [ ] https://www.acmicpc.net/problem/11021
+- [x] https://www.acmicpc.net/problem/10952
+- [x] https://www.acmicpc.net/problem/10953
+- [x] https://www.acmicpc.net/problem/11021
 - [ ] https://www.acmicpc.net/problem/11022
 - [ ] https://www.acmicpc.net/problem/11718
 - [ ] https://www.acmicpc.net/problem/11719
