@@ -6,9 +6,9 @@
 
 - [x] https://www.acmicpc.net/problem/557 (DROP 문제 없어짐)
 - [x] https://www.acmicpc.net/problem/1000
-- [ ] https://www.acmicpc.net/problem/2558
-- [ ] https://www.acmicpc.net/problem/10950
-- [ ] https://www.acmicpc.net/problem/10951
+- [x] https://www.acmicpc.net/problem/2558
+- [x] https://www.acmicpc.net/problem/10950
+- [x] https://www.acmicpc.net/problem/10951
 - [ ] https://www.acmicpc.net/problem/10952
 - [ ] https://www.acmicpc.net/problem/10953
 - [ ] https://www.acmicpc.net/problem/11021
