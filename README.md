@@ -16,9 +16,9 @@
 - [x] https://www.acmicpc.net/problem/11718
 - [x] https://www.acmicpc.net/problem/11719
 - [x] https://www.acmicpc.net/problem/11720
-- [ ] https://www.acmicpc.net/problem/11721
-- [ ] https://www.acmicpc.net/problem/2741
-- [ ] https://www.acmicpc.net/problem/2742
+- [x] https://www.acmicpc.net/problem/11721
+- [x] https://www.acmicpc.net/problem/2741
+- [x] https://www.acmicpc.net/problem/2742
 - [ ] https://www.acmicpc.net/problem/2739
 - [ ] https://www.acmicpc.net/problem/1924
 - [ ] https://www.acmicpc.net/problem/8393
