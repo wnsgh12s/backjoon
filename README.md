@@ -13,7 +13,7 @@
 - [x] https://www.acmicpc.net/problem/10953
 - [x] https://www.acmicpc.net/problem/11021
 - [x] https://www.acmicpc.net/problem/11022
-- [ ] https://www.acmicpc.net/problem/11718
+- [x] https://www.acmicpc.net/problem/11718
 - [ ] https://www.acmicpc.net/problem/11719
 - [ ] https://www.acmicpc.net/problem/11720
 - [ ] https://www.acmicpc.net/problem/11721
