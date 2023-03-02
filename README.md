@@ -22,7 +22,7 @@
 - [x] https://www.acmicpc.net/problem/2739
 - [x] https://www.acmicpc.net/problem/1924
 - [x] https://www.acmicpc.net/problem/8393
-- [ ] https://www.acmicpc.net/problem/10818
+- [x] https://www.acmicpc.net/problem/10818
 - [ ] https://www.acmicpc.net/problem/2438
 - [ ] https://www.acmicpc.net/problem/2439
 - [ ] https://www.acmicpc.net/problem/2440
