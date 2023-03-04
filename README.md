@@ -32,7 +32,7 @@
 - [X] https://www.acmicpc.net/problem/2522
 - [x] https://www.acmicpc.net/problem/2446
 - [x] https://www.acmicpc.net/problem/10991
-- [ ] https://www.acmicpc.net/problem/10992
+- [x] https://www.acmicpc.net/problem/10992
 </details>
 
 <details>
