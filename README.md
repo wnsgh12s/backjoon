@@ -38,8 +38,8 @@
 <details>
 <summary>DP</summary>
 
-- [ ] https://www.acmicpc.net/problem/1463
-- [ ] https://www.acmicpc.net/problem/11726
+- [x] https://www.acmicpc.net/problem/1463
+- [x] https://www.acmicpc.net/problem/11726
 - [ ] https://www.acmicpc.net/problem/11727
 - [ ] https://www.acmicpc.net/problem/9095
 - [ ] https://www.acmicpc.net/problem/10844
