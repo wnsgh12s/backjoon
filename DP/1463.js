@@ -10,3 +10,4 @@ for (let i = 2; i <= input; i++) {
 console.log(d)
 
 console.log(d[input]); 
+  
